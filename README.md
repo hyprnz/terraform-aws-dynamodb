@@ -1,5 +1,7 @@
 # Terraform DynamoDB Module
 
+**This module is no longer being maintained** <br/>
+
 Terraform module to provision a [DynamoDB](https://aws.amazon.com/dynamodb/) table with autoscaling.
 
 [Autoscaler](./modules/dynamodb_autoscaler) scales up/down the provisioned OPS for the DynamoDB table based on the load.
